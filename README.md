@@ -170,4 +170,4 @@ Upcoming Version (v2)
 - Flask Web App
 - Admin Panel
 - Face Registration Module
-- Email Attendance Report
+- Email Attendance Report.
